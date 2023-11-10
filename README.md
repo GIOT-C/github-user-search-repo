@@ -1,1 +1,1 @@
-# github-user-search-repo
+With this project, it is possible to search for existing GitHub users and view their information (of course, this project is a prototype). Currently there are 4 fictitious users in the json file: 1. Octocat 2. GIOT-C 3. dogstreet 4. excess. The project also has light and dark modes.. Try and test it. P.S the code is written in Typescript
