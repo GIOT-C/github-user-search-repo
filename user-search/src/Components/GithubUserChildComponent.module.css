@@ -1,0 +1,120 @@
+.userMainContainerLightMode {
+  width: 100%;
+  height: 300px;
+  background-color: white;
+  margin-top: 15px;
+  border-radius: 5px;
+  display: flex;
+}
+
+.userMainContainerDarkMode {
+  width: 100%;
+  height: 300px;
+  background-color: #1e2a47;
+  margin-top: 15px;
+  border-radius: 5px;
+  display: flex;
+}
+
+.userAccount {
+  width: 70%;
+}
+
+.avatarContainer {
+  width: 20%;
+  text-align: center;
+}
+
+.avatarImg {
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.userHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.userNameLightMode {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.userNameDarkMode {
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.userGmail {
+  margin-top: 0px;
+  color: #0079ff;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+.lightColor {
+  color: #697c9a;
+}
+
+.darkColor {
+  color: white;
+}
+
+.userLightBody {
+  width: 100%;
+  background-color: #f6f8ff;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 5px;
+}
+
+.userDarkBody {
+  width: 100%;
+  background-color: #141d2f;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 5px;
+}
+
+.repo,
+.followers,
+.following {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.pMargin {
+  margin-top: 2px;
+}
+
+.userLightFooter {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  color: #697c9a;
+}
+
+.userDarkFooter {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  color: white;
+}
+
+.footerDisplay {
+  display: flex;
+}
+
+.footerIconContainer {
+  width: 20px;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.githubLink:hover {
+  cursor: pointer;
+  color: #0079ff;
+}

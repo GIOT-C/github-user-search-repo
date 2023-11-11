@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "userName": "Octocat",
+        "gmail": "octocat@gmail.com",
+        "avatarImg" : "https://fastly.picsum.photos/id/626/60/60.jpg?hmac=UqDAZSDUUq8-bJC4kOlIC3TlkbQxb4cFUSBia7JQBk8",
+        "joinDate":{
+          "monthNumber":25,
+          "monthOfTheYear" : "Jan",
+          "year" : 2011 
+        },
+        "bio": "senior front-end developer",
+        "profileInfo":{  
+            "repos": 8,
+            "followers":3938,
+            "following" : 9
+        },
+        "mainInfo" : {
+            "location" : "San Francisco",
+            "twitter" : "not available",
+            "githubLink" : "https://github.blog",
+            "company" : "github"
+        }
+     
+    },
+    {
+        "id": 2,
+        "userName": "GIOT-C",
+        "gmail": "giootarashvili77@gmail.com",
+        "avatarImg" : "https://fastly.picsum.photos/id/35/60/60.jpg?hmac=G0qVyYvVRPCYb_jatfg3y-wkHBoHiLp2_LPR39L1SoE",
+        "joinDate":{
+          "monthNumber":2,
+          "monthOfTheYear" : "aug",
+          "year" : 2020 
+        },
+        "bio": "junior front-end developer",
+        "profileInfo":{  
+            "repos": 5,
+            "followers":39,
+            "following" : 3
+        },
+        "mainInfo" : {
+            "location" : "Tbilisi, Georgia",
+            "twitter" : "not available",
+            "githubLink" : "https://github.com/GIOT-C",
+            "company" : "github"
+        }
+     
+    },
+    {
+        "id": 3,
+        "userName": "Dogstreet",
+        "gmail": "dogstreet@gmail.com",
+        "avatarImg" : "https://fastly.picsum.photos/id/448/60/60.jpg?hmac=P3Op8Lm6DSMy1OfHCsLaNoIQm4lJPRlFKai2AfStBBc",
+        "joinDate":{
+          "monthNumber":4,
+          "monthOfTheYear" : "Dec",
+          "year" : 2022 
+        },
+        "bio": "junior front-end developer",
+        "profileInfo":{  
+            "repos": 2,
+            "followers":329,
+            "following" : 34
+        },
+        "mainInfo" : {
+            "location" : "Brooklyn",
+            "twitter" : "not available",
+            "githubLink" : "https://github.com/Dogst",
+            "company" : "github"
+        }
+     
+    },
+    {
+        "id": 4,
+        "userName": "Excess",
+        "gmail": "excess@gmail.com",
+        "avatarImg" : "https://fastly.picsum.photos/id/929/60/60.jpg?hmac=ftJ_MUch5HMPdFsKw3ShspVK2Kl7rAG7CVXmkFsB10A",
+        "joinDate":{
+          "monthNumber":22,
+          "monthOfTheYear" : "sep",
+          "year" : 2013 
+        },
+        "bio": "senior back-end developer",
+        "profileInfo":{  
+            "repos": 45,
+            "followers":3249,
+            "following" : 346
+        },
+        "mainInfo" : {
+            "location" : "Liverpool",
+            "twitter" : "not available",
+            "githubLink" : "https://github.com/excess",
+            "company" : "github"
+        }
+     
+    }
+]
